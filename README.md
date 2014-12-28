@@ -16,4 +16,4 @@ Schematic
 PCB Preview from OSH Park
 -------------------------
 <img src="https://raw.githubusercontent.com/xioTechnologies/Ideal-Diode/master/Images/OSH%20Park%20Preview%20Top.png"/>
-<img src="https://raw.githubusercontent.com/xioTechnologies/Ideal-Diode/master/OSH%20Park%20Preview%20Bottom.png"/>
+<img src="https://raw.githubusercontent.com/xioTechnologies/Ideal-Diode/master/Images/OSH%20Park%20Preview%20Bottom.png"/>
